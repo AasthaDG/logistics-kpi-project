@@ -120,7 +120,7 @@ ORDER BY estimated_underutil_cost DESC;
 - Page 3: Carrier scorecard with threshold-based coloring
 - Page 4: Monthly trend lines
 
-See [`powerbi/powerbi_setup_guide.md`](powerbi/powerbi_setup_guide.md) for DAX measures and layout instructions.
+See [`powerbi/powerbi_setup_guide.md`](powerbi/powerbi_setup_guide.md) for DAX measures.
 
 ---
 
